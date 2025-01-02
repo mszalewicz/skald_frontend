@@ -26,3 +26,7 @@ go.work.sum
 
 # macOS
 .DS_Store
+
+# project files
+main
+build-errors.log
